@@ -23,6 +23,6 @@ git init
 ## To modify a file
 1. Try to see the  status of our file.
 git status
-2. Try to see what is modified
-
+2. Try to see what is modified.
+git diff learngit.md
 
